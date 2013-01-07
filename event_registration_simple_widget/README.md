@@ -1,12 +1,12 @@
 Event Registration Simple Widget
 ================================
 
-Display your next event, created with the Event Registration plugin, on your sidebar. The day after an event the widget will show the next one or the widget will be hidden if there is no more. Additionally the class `noevent` will be assigned to it so that you can restyle it in CSS. The event category will be used as the title or 'Next event' if it has no category. 
+Display your next event in your sidebar, created with the Event Registration plugin. After the expiration date the next event will be displayed or the widget will be completely hidden if there is no more. Additionally the class `noevent` will be assigned to it so that you can restyle it in CSS. The event category will be used as the title or 'Next event' if it has no category.
 
 Requirements
 ------------
 
-This plugin needs the Event Registration plugin to be installed and activated.
+This plugin needs the [Event Registration](http://www.wpeventregister.com/) plugin to be installed and activated.
 
 Customizable
 ------------
